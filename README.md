@@ -3,7 +3,7 @@
 
 -----------------------------------------
 
-# Developer notes:
+# Dev notes:
 
 Mapping of the actual mongo shell command to the script command:
 
